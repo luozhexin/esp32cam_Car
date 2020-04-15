@@ -2,8 +2,8 @@
 ESP32-CAM Remote Control 
 */
 
-const char* ssid = "HUAWEI-ZL8734";
-const char* password = "13950181516@Huawei";
+const char* ssid = "";  //输入wifi账号
+const char* password = "";  //输入wifi密码
 
 #include "esp_wifi.h"
 #include "esp_camera.h"
